@@ -1,4 +1,22 @@
-### Hi there 👋
+##               Hola 👋, Soy Florencia Correa.
+
+####                 Estudiante de Ingenieria en Sistemas
+
+    sobreMi = {
+          Nombre : "Florencia Correa" ,
+          Edad : 24 ,
+          Idiomas : [ 
+            "Phyton" , "Wollok" , "Haskell" , "Prolog" , "HTML" , "CSS" 
+          ] ,
+          ActualmenteAprendiendo : [ 
+              "Java" , "C" 
+          ] ,
+          Extras : [
+              " Amante de los animales " , " Mi lugar en el mundo son los recitales " ,
+              " Escucho todo tipo de musica "
+          ]
+                }
+ 
 
 <!--
 **FlorenciaCorrea/FlorenciaCorrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
